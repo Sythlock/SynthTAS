@@ -1,4 +1,4 @@
-# SynthTAS
+# SynthTAS (not really but...)
 Record your movements precisely and perfectly all in one GUI, built by Syth.
 ## Usage
 Use SynthTAS in any game

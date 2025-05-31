@@ -6,8 +6,8 @@ Use SynthTAS in any game
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Sythlock/SynthTAS/refs/heads/main/SynthTASUpdateScript.lua",true))()
 ```
 ## Developers & Contributors
-Sythlock (Formerly, Syth) - Developer
-Sythlock (Formerly, Syth) - Contributors
+- Sythlock (Formerly, Syth) - Developer
+- Sythlock (Formerly, Syth) - Contributors
 
 **this project was solo**
 
